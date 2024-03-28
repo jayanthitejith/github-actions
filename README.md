@@ -1,3 +1,3 @@
 # GitHub-Actions
 
-## Repo of my github-actions practice
+## Repo of my CI practice using github-actions
